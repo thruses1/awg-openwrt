@@ -13,17 +13,17 @@ jobs:
       matrix:
         build_env:
           - tag: "23.05.4"
-            pkgarch: aarch64_cortex-a53
+            pkgarch: aarch64
             target: MediaTek
             subtarget: filogic
             vermagic: "a9e995a9a24432875a251457bb4a8f50-r1"
           - tag: "23.05.4"
-            pkgarch: aarch64_cortex-a53
+            pkgarch: aarch64
             target: MediaTek
             subtarget: filogic
             vermagic: "a9e995a9a24432875a251457bb4a8f50-r1"
           - tag: "23.05.4"
-            pkgarch: aarch64_cortex-a53
+            pkgarch: aarch64
             target: MediaTek
             subtarget: filogic
             vermagic: "a9e995a9a24432875a251457bb4a8f50-r1"
